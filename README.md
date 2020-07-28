@@ -1,8 +1,16 @@
-# mqttexperiment
+# MQTT TEST ENVIRONMENT
 Some test for MQTT Protocol Communication
-## MQTT_Client branch
+## MQTT_Client
+### MQTT_Publisher
+environment : RaspberryPI 3B ,Raspbian OS  
+Requirements : Python 3.8.x  
+packeages : paho-mqtt
 
-RaspberryPI 3B
+### MQTT_Subscriber
+environment : PC , Windows10   
+Requirements : Python 3.8.x  
+packeages : paho-mqtt
 
-## MQTT_Server branch 
-WindowsPC
+## MQTT_Broker  
+environment : Windows10  
+Requirements : mosquitto
