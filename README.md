@@ -1,5 +1,5 @@
 # MQTT TEST ENVIRONMENT
-Some test for MQTT Protocol Communication
+!CAUTION! ALL ENVIRONMENT HAS MANAGED BY VIRTUALENV
 ## MQTT_Client
 ### MQTT_Publisher
 environment : RaspberryPI 3B ,Raspbian OS  
